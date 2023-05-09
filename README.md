@@ -10,10 +10,10 @@ It's telegram bot built with python and aiogram framework to help you control yo
 
 2. after installing python if you have git installed you can clone the repo by running
 ```bash
-git clone repo-url
+git clone https://github.com/LAITH343/remote-control.git
 ```
 
-if you don't have git you can download it from [here](zip-file-url) (shortcut to repo download option) then extract it
+if you don't have git you can download it from [here](https://github.com/LAITH343/remote-control/archive/refs/heads/master.zip) (shortcut to repo download option) then extract it
 
 3. open the folder using your files explorere then if your using Linux, Mac or Windows 10 or higher right click and select (open terminal here)/(open in terminal) if your using Windows 7 press Shift and right click, and you should see open with powershell or something like that
 
